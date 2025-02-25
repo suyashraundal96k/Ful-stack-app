@@ -1,1 +1,1 @@
-# Ful-stack-app
+# Full-stack-app
